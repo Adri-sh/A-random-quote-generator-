@@ -1,2 +1,3 @@
 # A random quote generator 
- A project for the first unit of fullstack javascript
+the goal of this project is to demonstrate some level of proficiency by creating a website that generates random quotes when a user clicks a button.
+
