@@ -27,6 +27,10 @@ quote:" before you judge a man, walk a mile in his shoes. After that who cares?.
 },
 
 {quote:" Always keep your eyes open. Keep watching. Because whatever you see can inspire you ",source:'  Grace Coddington ',citation:'',year:''
+},
+  {quote:" The only way out of the labyrinth of suffering is to forgive ",source:'  john green ',citation:'looking for alaska',year:'2019'
+},
+  {quote:" We accept the love we think we deserve ",source:'  Stephen Chbosky ',citation:'The Perks of Being a Wallflower',year:'2012'
 }
 ]
 
